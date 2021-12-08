@@ -1,0 +1,11 @@
+{
+  "name": "instafake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alb-le/instafake.git",
+  "author": "alb-le",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
